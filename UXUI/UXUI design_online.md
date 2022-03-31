@@ -75,7 +75,7 @@
 - **Lean UX(린 UX)**
 	- 리서치를 통한 가설 같은 불확실성을 다루는데 최적화 된 애자일 프로세스
 	- MVP(Minimum Viable Product, 최소 요건 제품) 검증시 사용
-		- ![[/img/MVP.png]]
+		<img src="https://github.com/pickledbadlands/Study_UXUI/blob/1a4ebbb38c52440007c4170ae414a8717739e215/img/MVP.png" width="480px">
 		- 고객에게 비즈니스 가치를 제공할 수 있는 최소한의 기능을 구현한 제품
 		- 비즈니스 가설 검증을 목표로 함
 	- 아이디어(가설) - 구현  - 제품 - 측정 - 데이터 - 학습 반복
